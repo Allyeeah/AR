@@ -22,6 +22,8 @@ public class ARTemplateMenuManager : MonoBehaviour
     /// <summary>
     /// Button that opens the create menu.
     /// </summary>
+    /// 
+
     public Button createButton
     {
         get => m_CreateButton;
