@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1001 &150448333064699453
+--- !u!1001 &8406778708823148631
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -11,7 +11,7 @@ PrefabInstance:
     - target: {fileID: 114145618614935576, guid: d9c3de7f910045144be66d1271e1e713,
         type: 3}
       propertyPath: m_Name
-      value: Ani_2
+      value: Sadness 1
       objectReference: {fileID: 0}
     - target: {fileID: 4554972198809262221, guid: d9c3de7f910045144be66d1271e1e713,
         type: 3}
